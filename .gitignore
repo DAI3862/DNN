@@ -1,0 +1,14 @@
+*.jpg
+*.png
+*.odg
+*.xcf
+*.txt
+*.html
+*.names
+*.gif
+*.gz
+*.zip
+*.pyc
+*.csv
+/input
+*.tif
