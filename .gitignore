@@ -13,3 +13,5 @@
 /input
 *.tif
 *.pt
+Day10/ckpt
+Day10/models/text_gen
