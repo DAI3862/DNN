@@ -15,3 +15,5 @@
 *.pt
 Day10/ckpt
 Day10/models/text_gen
+Day12/logs
+Day12/models/
